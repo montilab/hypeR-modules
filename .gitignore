@@ -4,6 +4,7 @@
 
 # Example code in package build process
 *-Ex.R
+*.Rproj
 .Rproj.user
 
 # ShinyApps manifest
